@@ -1,4 +1,4 @@
-# RARE Wellness v2.3 — *Sanctuary*
+# RARE Wellness v2.0 — Sanctuary
 
 > A luxury wellness ecosystem for the high-performance individual. Combining artisanal ritual with skin intelligence.
 
